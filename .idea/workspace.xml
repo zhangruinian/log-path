@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04ebd9b5-7764-4742-8342-95900f0d9479" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/compute-path大类.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compute-path.js" beforeDir="false" afterPath="$PROJECT_DIR$/compute-path.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path.log" beforeDir="false" afterPath="$PROJECT_DIR$/path.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path.txt" beforeDir="false" afterPath="$PROJECT_DIR$/path.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +25,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            <state relative-caret-position="299">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compute-path大类.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pathLineCompute大类.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret column="1345" selection-end-column="1431" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pathLineCompute大类.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret column="698" selection-end-column="719" />
             </state>
           </provider>
         </entry>
@@ -37,17 +61,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/path.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="92">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/compute-path.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pathLineCompute-4000%.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+            <state relative-caret-position="69">
+              <caret column="407" lean-forward="true" selection-start-column="407" selection-end-column="407" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/path.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="937" />
             </state>
           </provider>
         </entry>
@@ -55,8 +88,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pathLineCompute.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret column="676" selection-start-column="676" selection-end-column="676" />
+            <state relative-caret-position="92">
+              <caret column="563" lean-forward="true" selection-start-column="563" selection-end-column="563" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compute-path.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="25" column="69" lean-forward="true" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pathLineCompute5000.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret column="656" selection-start-column="656" selection-end-column="656" />
             </state>
           </provider>
         </entry>
@@ -86,6 +137,9 @@
         <option value="$PROJECT_DIR$/path.log" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/compute-path.js" />
+        <option value="$PROJECT_DIR$/pathLineCompute.txt" />
+        <option value="$PROJECT_DIR$/path.txt" />
+        <option value="$PROJECT_DIR$/compute-path大类.js" />
       </list>
     </option>
   </component>
@@ -101,6 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,7 +167,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,8 +201,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.compute-path.js">
+  <component name="RunManager" selected="Node.js.compute-path大类.js">
     <configuration name="compute-path.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="compute-path.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="compute-path大类.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="compute-path大类.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
@@ -156,8 +213,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.compute-path.js" />
+        <item itemvalue="Node.js.compute-path大类.js" />
         <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.compute-path.js" />
       </list>
     </recent_temporary>
   </component>
@@ -173,18 +231,18 @@
       <updated>1554946518457</updated>
       <workItem from="1554946519725" duration="6182000" />
       <workItem from="1554964250621" duration="1959000" />
-      <workItem from="1555032627584" duration="1542000" />
+      <workItem from="1555032627584" duration="2329000" />
+      <workItem from="1555061227237" duration="1727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9683000" />
+    <option name="totallyTimeSpent" value="12197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.77318114" visible="true" weight="0.1828125" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.77318114" visible="true" weight="0.14699684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.22681883" side_tool="true" visible="true" weight="0.18282403" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -193,11 +251,11 @@
       <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49315068" weight="0.28345627" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3280757" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49209693" weight="0.26131687" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.49209693" visible="true" weight="0.24526316" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.59009486" visible="true" weight="0.42695475" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.59009486" weight="0.36736843" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -218,20 +276,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/path.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret column="936" selection-end-column="937" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gov-paths.log">
       <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="1495">
+        <state relative-caret-position="507">
           <caret line="136" column="147" lean-forward="true" selection-start-line="136" selection-start-column="147" selection-end-line="136" selection-end-column="147" />
         </state>
       </provider>
       <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pathLineCompute5000.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret column="656" selection-start-column="656" selection-end-column="656" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pathLineCompute-4000%.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -240,31 +298,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/path.log">
+    <entry file="file://$PROJECT_DIR$/compute-path.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="161">
+          <caret line="25" column="69" lean-forward="true" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pathLineCompute.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret column="676" selection-start-column="676" selection-end-column="676" />
+        <state relative-caret-position="92">
+          <caret column="563" lean-forward="true" selection-start-column="563" selection-end-column="563" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/compute-path.js">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        <state relative-caret-position="299">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="937" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pathLineCompute大类.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret column="698" selection-end-column="719" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compute-path大类.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pathLineCompute大类.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret column="1345" selection-end-column="1431" />
         </state>
       </provider>
     </entry>
