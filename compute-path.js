@@ -1,7 +1,7 @@
 const readline = require('readline')
 const path = require('path')
 const fs = require('fs')
-// let filepath = path.join(__dirname, 'path1.log')
+// let filepath = path.join(__dirname, 'path.log')
 let filepath = path.join(__dirname, 'gov-paths.log')
 let input = fs.createReadStream(filepath)
 const rl = readline.createInterface({
@@ -15,8 +15,8 @@ let pathNum = 0
 rl.on('line', (line) => {
     pathNum += 1
     let length = line.split(':?->').length
-    // console.log(line, length, line.split('\t')[1].split(':?->'))
-    let pathArr = line.split('\t')[1].split(':?->')
+    // console.log(line, length, line.split('\t')[1].split('->'))
+    let pathArr = line.split('\t')[1].split('->')
     let pathLine = ''
     pathArr.forEach((path) => {
         pathLine = pathLine + '→' + path.split(':')[0]
@@ -36,7 +36,7 @@ rl.on('close', (line) => {
         pathToArr.push([path, pathObj[path], (pathObj[path]/ pathNum).toFixed(4)])
     })
     pathToArr = pathToArr.filter((path) => {
-        return path[1] > 4000
+        return path[1] > 5000
     })
     console.log(pathToArr)
     fs.writeFile('pathLineCompute.txt', JSON.stringify(pathToArr), function (error) {
