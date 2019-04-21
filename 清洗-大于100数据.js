@@ -11,8 +11,10 @@ const rl = readline.createInterface({
 let outputStr = ''
 let cleanNum = 0
 let limitNum = 0
+let allNum = 0
 
 rl.on('line', (line) => {
+    allNum += 1
     // console.log(line, length, line.split('\t')[1].split('->'))
     let lineIp = line.split('\t')[0]
     let linePath = line.split('\t')[1]
@@ -32,7 +34,7 @@ rl.on('line', (line) => {
 
 
 rl.on('close', (line) => {
-    console.log('读取完毕', cleanNum, limitNum)
+    console.log('读取完毕',allNum, cleanNum, limitNum)
     fs.writeFile('清洗-数据.log', outputStr, function (error) {
         error ? console.log(error) : console.log('写入log成功')
     })
