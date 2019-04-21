@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04ebd9b5-7764-4742-8342-95900f0d9479" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/compute-path大类.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computeIp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-path.js" beforeDir="false" afterPath="$PROJECT_DIR$/清洗-大于100数据.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-path大类.js" beforeDir="false" afterPath="$PROJECT_DIR$/compute-path大类csv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path.txt" beforeDir="false" afterPath="$PROJECT_DIR$/path.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pathLineCompute大类.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pathLineCompute大类.csv" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,92 +30,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="252">
+              <caret line="14" column="25" lean-forward="true" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/compute-path大类.js">
+      <file leaf-file-name="computeIp.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/computeIp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+            <state relative-caret-position="306">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file leaf-file-name="compute-path大类csv.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compute-path大类csv.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="51" column="6" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="51" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pathLineCompute大类.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pathLineCompute大类.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret column="1345" selection-end-column="1431" />
+            <state relative-caret-position="162">
+              <caret column="1251" lean-forward="true" selection-start-column="1251" selection-end-column="1251" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pathLineCompute大类.txt">
+      <file leaf-file-name="清洗-大于100数据.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/清洗-大于100数据.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret column="698" selection-end-column="719" />
+            <state relative-caret-position="180">
+              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="清洗-数据.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/清洗-数据.log">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="-377231">
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="path.log" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/path.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="76">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pathLineCompute-4000%.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret column="407" lean-forward="true" selection-start-column="407" selection-end-column="407" />
+      <file leaf-file-name="gov-paths.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gov-paths.log">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="414">
+              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="path.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/path.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="937" />
+              <caret selection-end-column="1993" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pathLineCompute.txt">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret column="563" lean-forward="true" selection-start-column="563" selection-end-column="563" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/compute-path.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="25" column="69" lean-forward="true" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pathLineCompute5000.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret column="656" selection-start-column="656" selection-end-column="656" />
+            <state relative-caret-position="54">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -133,21 +141,30 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/path.log" />
-        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/compute-path.js" />
         <option value="$PROJECT_DIR$/pathLineCompute.txt" />
-        <option value="$PROJECT_DIR$/path.txt" />
         <option value="$PROJECT_DIR$/compute-path大类.js" />
+        <option value="$PROJECT_DIR$/清洗-大于100数据.js" />
+        <option value="$PROJECT_DIR$/compute-path大类csv.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/path.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/computeIp.js" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="7" />
-    <option name="y" value="22" />
-    <option name="width" value="908" />
-    <option name="height" value="1000" />
+    <option name="x" value="-1" />
+    <option name="y" value="-1088" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -175,17 +192,21 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/gov-paths.log" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="node.js.selected.package.standard" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\front\node\log-path" />
       <recent name="D:\front\node\log-path" />
     </key>
   </component>
@@ -201,20 +222,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.compute-path大类.js">
-    <configuration name="compute-path.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="compute-path.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.computeIp.js">
+    <configuration name="清洗-大于100数据.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="清洗-大于100数据.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="compute-path.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="compute-path.js" working-dir="$PROJECT_DIR$" />
     <configuration name="compute-path大类.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="compute-path大类.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
+    <configuration name="compute-path大类csv.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/compute-path大类csv.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="computeIp.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="computeIp.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$" />
+    <list>
+      <item itemvalue="Node.js.compute-path.js" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.compute-path大类csv.js" />
+      <item itemvalue="Node.js.清洗-大于100数据.js" />
+      <item itemvalue="Node.js.computeIp.js" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.compute-path大类.js" />
+        <item itemvalue="Node.js.computeIp.js" />
         <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.compute-path大类csv.js" />
+        <item itemvalue="Node.js.清洗-大于100数据.js" />
         <item itemvalue="Node.js.compute-path.js" />
       </list>
     </recent_temporary>
@@ -233,33 +262,35 @@
       <workItem from="1554964250621" duration="1959000" />
       <workItem from="1555032627584" duration="2329000" />
       <workItem from="1555061227237" duration="1727000" />
+      <workItem from="1555813045072" duration="9636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12197000" />
+    <option name="totallyTimeSpent" value="21833000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1" y="-1088" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.77318114" visible="true" weight="0.14699684" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" sideWeight="0.22681883" side_tool="true" visible="true" weight="0.18282403" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.77318114" visible="true" weight="0.18651211" />
+      <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5068493" side_tool="true" weight="0.22760801" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32715377" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.59009486" visible="true" weight="0.43838605" />
       <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49315068" weight="0.28345627" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.3280757" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.49209693" visible="true" weight="0.24526316" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49209693" weight="0.2508179" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.22681883" side_tool="true" visible="true" weight="0.18282403" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.59009486" weight="0.36736843" />
-      <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,54 +299,42 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="247">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gov-paths.log">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="507">
-          <caret line="136" column="147" lean-forward="true" selection-start-line="136" selection-start-column="147" selection-end-line="136" selection-end-column="147" />
+    <entry file="file://$PROJECT_DIR$/compute-path大类csv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pathLineCompute5000.txt">
+    <entry file="file://$PROJECT_DIR$/pathLineCompute大类.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret column="656" selection-start-column="656" selection-end-column="656" />
+        <state>
+          <caret column="698" selection-end-column="719" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pathLineCompute-4000%.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
+        <state>
           <caret column="407" lean-forward="true" selection-start-column="407" selection-end-column="407" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/compute-path.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="25" column="69" lean-forward="true" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pathLineCompute.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret column="563" lean-forward="true" selection-start-column="563" selection-end-column="563" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -326,31 +345,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/path.log">
+    <entry file="file://$PROJECT_DIR$/pathLineCompute.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state>
+          <caret column="563" lean-forward="true" selection-start-column="563" selection-end-column="563" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pathLineCompute大类.txt">
+    <entry file="file://$PROJECT_DIR$/compute-path.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret column="698" selection-end-column="719" />
+        <state relative-caret-position="475">
+          <caret line="25" column="69" lean-forward="true" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/compute-path大类.js">
+    <entry file="file://$PROJECT_DIR$/pathLineCompute5000.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        <state>
+          <caret column="656" selection-start-column="656" selection-end-column="656" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pathLineCompute大类.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="19">
           <caret column="1345" selection-end-column="1431" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pathLineCompute5000.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="656" selection-start-column="656" selection-end-column="656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pathLineCompute-4000%.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="407" selection-start-column="407" selection-end-column="407" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pathLineCompute.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="563" selection-start-column="563" selection-end-column="563" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pathLineCompute大类.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret column="471" selection-start-column="470" selection-end-column="471" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compute-path.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gov-paths.log">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="414">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/清洗-数据.log">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-377231">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pathLineCompute大类.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret column="1251" lean-forward="true" selection-start-column="1251" selection-end-column="1251" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="1993" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="25" lean-forward="true" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/清洗-大于100数据.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compute-path大类csv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="51" column="6" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="51" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computeIp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
         </state>
       </provider>
     </entry>
